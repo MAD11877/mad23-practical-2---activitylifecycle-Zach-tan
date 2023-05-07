@@ -1,0 +1,7 @@
+<resources>
+    <string name ="app_name">MAD Prac 2</string>
+    <string name = "followbtn">Follow</string>
+    <string name = "messagebtn">Message</string>
+    <string name = "topLayout">  MADPractical</string>
+    <string name = "longtext">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+</resources>
